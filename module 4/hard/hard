@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Blog</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>My Blog</h1>
+    </header>
+
+    <!-- Main section with 2 columns -->
+    <main style="display:flex;">
+
+        <!-- Left column -->
+        <section style="width:70%;">
+
+            <h2>Latest Post</h2>
